@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-Aija Berga DevOps repozitorijs pamati iesācējiem
+Aijas Bergas DevOps repozitorijs pamati iesācējiem
